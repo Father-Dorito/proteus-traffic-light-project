@@ -1,0 +1,19 @@
+main
+	__CC2DW
+		____DoICP
+	Div_16x16_S
+		Div_16x16_S_L
+	automaticTraffic
+		Div_16x16_S
+			Div_16x16_S_L
+		timer
+			Div_16x16_S
+				Div_16x16_S_L
+			display
+				Div_16x16_S
+					Div_16x16_S_L
+	manualTraffic
+		Div_16x16_S
+			Div_16x16_S_L
+		all_off
+interrupt
